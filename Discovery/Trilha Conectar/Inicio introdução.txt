@@ -1,0 +1,17 @@
+Sobre a trilha Conectar
+-Mundo real e mundo web
+-Nomes tecnicos
+-Uma ferramenta na sua jornada
+
+*Entender e não decorar - conseguir explicar para um leigo.
+* Todos em qualquer idade podem aprender a programar - You can do it!
+
+GUIA ESTELAR DE PROGRAMAÇÃO
+
+-Introdução aos fundamentos
+	-O que é Web? 
+	R: rede - teia de aranha kkk
+	Conexão entre computadores.
+
+- O que é programar?
+	-
