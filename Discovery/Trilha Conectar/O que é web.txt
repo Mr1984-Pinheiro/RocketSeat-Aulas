@@ -51,3 +51,28 @@ Isso foi apenas uma visão geral de como funciona a Web, neste caso o que ocorre
 que tem a pagina (servidor). 
 		- Cliente - O computador, dispositivo ou aplicativo que fez o pedido.
 			- Browser
+		- Servidor - Computador configurado para receber os pedidos e enviar respostas aos pedidos. 
+		- TCP - Transmission Control Protocol
+			- Função: Garantir que os pacotes cheguem corretamente ao destino.
+	- O enedereço é convertido em um IP (76.76.21.21) atraves do DNS.
+		- IP: Internet Protocol
+			- Função Endereçamento dos computadores
+		 - DNS: Domain Name Servers
+			- Função: Converter um dominio em um endereço IP.
+
+	- Seu pedido está percorrendo diversos proxies
+		- Proxy 
+			- Qualquer dispositivo no meio do caminho
+			- Modem, Roteador, outros computadores
+			- Função: Encaminhamento dos pacotes
+
+	- Seu pedido chega até o servidor
+
+	- Servidor analisa seu pedido e te da uma resposta, neste caso, positiva.
+
+	- O caminho de volta é semelhante ao de ida, passando pela linha de comunicação que foi criada. 
+
+	- O browser recebe os pedaços e monta a tela do site pra você. 
+
+	- Esse processo acontece muitas vezes, pois para cada recurso (html, css, javascript, imagem...) é feita 
+uma nova conexão. 
